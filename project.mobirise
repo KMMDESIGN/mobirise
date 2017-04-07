@@ -1,0 +1,571 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.9",
+    "versionPublish": "3.11.1",
+    "name": "www.kmmdesign.net",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "uniqCompNum": 89,
+    "favicon": "",
+    "noImageResize": "true"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "KATHERINE MCCARTHY ",
+        "meta_descr": "",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_name": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/kathymccarthy-f-128x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true,
+              "link": "#top",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\"></a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-1n\">things i do well</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#slider-2b\">&nbsp;things i've done</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"#bottom\">say hello</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-1c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/homepage-f-2000x1048.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "MOBIRISE WEBSITE BUILDER",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">things i've done</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            "P": {
+              "font-size": "12px",
+              "text-align": "center",
+              "color": "#252525"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "14px",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "text-align": "center"
+            },
+            ".mbr-section__col .mbr-header__text I": {
+              "font-size": "13px"
+            },
+            "I": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features1-1n",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": true,
+            "showSubheader": false,
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
+          },
+          "headerAlign": "left",
+          "header": "things i do well",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/design-circle2-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "DESIGN<br>",
+          "caption1": "<i>On-trend aesthetic for a diverse <br>client base, mostly fashion &amp; beauty. <br>Solid experience in breathing life <br>into core products and in leading creative <br>teams to achieve cohesive, multifaceted <br>and brand-appropriate designs. </i><i>&nbsp;</i>Well versed in <br>corporate identity, style guides, on-line (sites, emails and ads), retail and wholesale catalogs, in-store fixtures and displays, packaging, product development, outdoor, print, sales support, trade shows, brand extension <br>&amp; fund-raising tribute books.&nbsp;<i><br></i><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-link\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/retail-circle-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "<i>BRING PRODUCTS TO&nbsp;MARKET</i><i><br></i>",
+          "caption2": "Experienced in creating cohesive<br>and exclusive collections for the majors,<br>and specialty stores (online and offline)<br>Part of the strategic product development team &nbsp;that determines the product, <br>messaging, packaging and costing. <br>Extensive experience&nbsp;with retailers <br>such&nbsp;as Bloomingdale’s, Nordstrom, <br>Target, Amazon, QVC and specialty. <br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-link\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/innovation-circle-1-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "IDEA GENERATOR<br>",
+          "caption3": "Tenacious attention to newness. &nbsp;<br>New products, new packaging, new look and feel. My designs are always evolving. Experienced in researching, resourcing and producing products that extend the brand.&nbsp;<br>Dogeared’s successful Create with Heart collection, tote bags, and greeting cards are successful, money making winners. <br>Founder of two businesses, Much <br>Marketing and Allergy Haven.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-link\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/production-circle-4-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "GET SH** DONE<br>",
+          "caption4": "In-house powerhouse with a <br>thorough understanding of the nuts <br>and bolts of the design through production process, including spec sheets, timelines, vendor resources, costing, mechanical <br>set ups, and printing. I have&nbsp;solid vendor relationships. My network includes printers, box manufacturers,&nbsp;tote bags, shippers, clothing, promotions. I have resources for companies that offer unique&nbsp;packaging, fixturing and display pieces.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-link\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/blankcircle-600x593.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "linkInNewWindow": false,
+              "name": "down",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "200",
+              "newWindow": false
+            }
+          },
+          "title5": "",
+          "caption5": "",
+          "button5": "<a data-app-btn=\"true\" href=\"index.html#slider-20\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">SEE <br>things i've done</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2g",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#slider-2b\" data-toolbar=\"-mbrBtnMove\">see thing's i've done</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "11px",
+              "color": "#000000",
+              "text-align": "center"
+            },
+            "H1": {
+              "font-size": "14px",
+              "color": "#000000",
+              "text-align": "center",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
+          "_params": {
+            "autoplay": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider-decore-1-2000x1048.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": true,
+                "title": "DOGEARED &nbsp;| &nbsp;BEST SELLERS RE-BRANDED 2017<br><br><br><br><br><br><br>",
+                "showText": false,
+                "text": "pitch team &nbsp;. &nbsp;creative direction &nbsp;. &nbsp;in-store presentation<br>catalogs &nbsp;. &nbsp;production resourcing and execution",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider-blkgold-2000x1048.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": true,
+                "title": "DOGEARED &nbsp;| &nbsp;FOR THE LOVE OF GOLD<br><br><br><br><br><br><br>",
+                "showText": false,
+                "text": "pitch team &nbsp;. &nbsp;creative direction &nbsp;. &nbsp;in-store presentation<br>catalogs &nbsp;. &nbsp;production resourcing and execution",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider-maya-2000x1048.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": true,
+                "title": "DOGEARED &nbsp;| &nbsp;MAYA ANGELOU LEGACY COLECTION<br><br><br><br><br><br><br>",
+                "showText": false,
+                "text": "pitch team &nbsp;. &nbsp;creative direction &nbsp;. &nbsp;in-store presentation<br>catalogs &nbsp;. &nbsp;production resourcing and execution",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider-bridal-f-2000x1048.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": true,
+                "title": "DOGEARED &nbsp;| &nbsp;BRIDAL COLLECTION<br><br><br><br><br><br><br>",
+                "showText": false,
+                "text": "pitch team &nbsp;. &nbsp;creative direction &nbsp;. &nbsp;in-store presentation<br>catalogs &nbsp;. &nbsp;production resourcing and execution",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider-brandx-2000x1048.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": true,
+                "title": "DOGEARED &nbsp;| &nbsp;BRAND EXTENSION<br><br><br><br><br><br><br>",
+                "showText": false,
+                "text": "pitch team &nbsp;. &nbsp;creative direction &nbsp;. &nbsp;in-store presentation<br>catalogs &nbsp;. &nbsp;production resourcing and execution",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider-target-1-2000x1048.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": true,
+                "title": "DOGEARED &nbsp;| &nbsp;EXCLUSIVE COLLECTIONS<br><br><br><br><br><br><br>",
+                "showText": false,
+                "text": "pitch team &nbsp;. &nbsp;creative direction &nbsp;. &nbsp;in-store presentation<br>catalogs &nbsp;. &nbsp;production resourcing and execution",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/slide-create-2000x1048.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": true,
+                "title": "DOGEARED &nbsp;| &nbsp;CREATE WITH HEART PERSONALIZED GIFT CARDS<br><br><br><br><br><br><br>",
+                "showText": false,
+                "text": "pitch team &nbsp;. &nbsp;creative direction &nbsp;. &nbsp;in-store presentation<br>catalogs &nbsp;. &nbsp;production resourcing and execution",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider-instagram-2000x1048.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": true,
+                "title": "DOGEARED &nbsp;| &nbsp;INSTAGRAM<br><br><br><br><br><br><br>",
+                "showText": false,
+                "text": "pitch team &nbsp;. &nbsp;creative direction &nbsp;. &nbsp;in-store presentation<br>catalogs &nbsp;. &nbsp;production resourcing and execution",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slider-kmm-2000x1048.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": true,
+                "title": "EXPERIENCE<br><br><br><br><br><br><br>",
+                "showText": false,
+                "text": "pitch team &nbsp;. &nbsp;creative direction &nbsp;. &nbsp;in-store presentation<br>catalogs &nbsp;. &nbsp;production resourcing and execution",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/logos-2000x1048.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": true,
+                "title": "LOGOS<br><br><br><br><br><br><br>",
+                "showText": false,
+                "text": "pitch team &nbsp;. &nbsp;creative direction &nbsp;. &nbsp;in-store presentation<br>catalogs &nbsp;. &nbsp;production resourcing and execution",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#000000",
+            "showBullets": false
+          },
+          "_anchor": "slider-2b",
+          "articleLayout": false
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "font-size": "12px",
+              "color": "#252525",
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2d",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "<br>clients<br>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>&nbsp;ALLERGY HAVEN &nbsp; &nbsp; &nbsp; ANDREW MCCARTHY &nbsp; &nbsp; &nbsp; AROUND YOU DESIGN</b> &nbsp; &nbsp; &nbsp;&nbsp;<b>BAKO SKIN CARE &nbsp; &nbsp; &nbsp;&nbsp;</b><b>BAY SCREEN AND SHADE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b><b>THE BILL &amp; KEN HOUR &nbsp; &nbsp; &nbsp; &nbsp;BRANDSENSE &nbsp; &nbsp; &nbsp; BRYAN KEST POWER YOGA &nbsp; &nbsp; &nbsp; BUGLE BOY INDUSTRIES &nbsp; &nbsp; &nbsp; CRUSTACEAN &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><b>DISNEY STUDIOS &nbsp; &nbsp; &nbsp; DOGEARED &nbsp; &nbsp; &nbsp;&nbsp;</b><b>DR. SCHULZE'S SUPER FOOD &nbsp; &nbsp; &nbsp;GARDEN ART &nbsp; &nbsp; &nbsp; GURU MOMMY &nbsp; &nbsp; &nbsp;</b><b>J&amp;M QUILTING</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>JETTIS &nbsp; &nbsp; &nbsp;</b><b>THE JOHN THOMAS DYE SCHOOL &nbsp; &nbsp; &nbsp; &nbsp;LAURI TRAINOR INTERIOR DESIGN &nbsp; &nbsp; &nbsp; MARYMOUNT SCHOOL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MEDIAPLEX</b>&nbsp; &nbsp; &nbsp;&nbsp;<b>MOSSIMO &nbsp; &nbsp; &nbsp; NOVA MEDICAL &nbsp; &nbsp; &nbsp; POPPY STORE &nbsp; &nbsp; &nbsp; &nbsp;SKIN ALCHEMY &nbsp; &nbsp; &nbsp;&nbsp;</b><b>SOLE BEAUTY &nbsp; &nbsp; &nbsp;UNITED CAPITAL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TELEFLORA &nbsp; &nbsp; &nbsp;</b><b>VALLEY CREST TREE COMPANY</b> &nbsp; &nbsp; &nbsp;&nbsp;<b>VALUECLICK &nbsp; &nbsp; &nbsp; &nbsp;YOGAWORKS &nbsp; &nbsp; &nbsp;</b></p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "contacts3-2a",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<span style=\"line-height: 20.390625px;\"><b>KATHY MCCARTHY</b></span><br>\nEmail: kmccarthy@kmmdesign.net<br>\nPhone: (310) 573-1043<br>\nFax: (310) 573-1024",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://allergyhaven.com\" target=\"_blank\" class=\"text-white\">allergyhaven.com</a></li><li><a href=\"http://dogeared.com\" target=\"_blank\" class=\"text-white\">dogeared.com</a></li><li><br></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "kmccarthy@kmmdesign.net",
+            "alerts": {
+              "success": "Well, hello! "
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">say hello</a>"
+        }
+      ]
+    }
+  }
+}
